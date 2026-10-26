@@ -27,6 +27,7 @@ Debrowser is in development and not yet on the App Store.
 - [Website](https://debrowser.app)
 - [Docs](https://debrowser.app/docs) · [Changelog](https://debrowser.app/changelog)
 - [Privacy](https://debrowser.app/privacy)
+- Contact: [hello@debrowser.app](mailto:hello@debrowser.app)
 
 ---
 
